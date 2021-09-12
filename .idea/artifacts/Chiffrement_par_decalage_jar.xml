@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Chiffrement-par-decalage:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Chiffrement_par_decalage_jar</output-path>
+    <root id="archive" name="Chiffrement-par-decalage.jar">
+      <element id="module-output" name="Chiffrement-par-decalage" />
+    </root>
+  </artifact>
+</component>
